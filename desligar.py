@@ -25,7 +25,7 @@ def cancelar_desligamento():
 # Configuração da janela principal
 janela = tk.Tk()
 janela.title("Programa de Desligamento")
-janela.geometry("400x250")  # Aumentei a altura para acomodar melhor
+janela.geometry("400x250")
 
 # Estilo com cores de fundo cinza
 style = ttk.Style()
